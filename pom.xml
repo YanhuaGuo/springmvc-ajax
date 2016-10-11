@@ -24,7 +24,7 @@
             <artifactId>spring-orm</artifactId>
             <version>${springframework-version}</version>
             <!-- will come with all needed Spring dependencies such as spring-core
-                and spring-beans -->
+                and spring-beans.. -->
         </dependency>
 
         <dependency>
